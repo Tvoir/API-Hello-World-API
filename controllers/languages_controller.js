@@ -11,7 +11,7 @@ languages.get('/seed', (req, res) => {
             "name": "english",
             "greeting": "Hello world",
             "pangram": "The quick brown fox jumps over the lazy dog",
-            "filler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "filler": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }, {
             "name": "spanish",
             "greeting": "Hola mundo",
